@@ -1,0 +1,24 @@
+name: robas
+channels:
+  - conda-forge
+  - nodefaults
+dependencies:
+  - python=3.12
+  - arviz
+  - pre-commit
+  - matplotlib
+  - numpyro  
+  - numpy=1.26.4
+  - pandas=2.2.2
+  - scipy=1.15.1
+  - scikit-learn=1.5.2
+  - tqdm=4.66.5
+  - pytorch=2.4.1
+  - tensorflow=2.16.2
+  - jax=0.4.31
+  - jaxlib=0.4.31
+  - pymc=5.16.2
+  - pip
+  - pip:
+      - ml_dtypes
+      - quantile-forest==1.4.1
