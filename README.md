@@ -1,6 +1,6 @@
 # Robust Bayes-Assisted Conformal Prediction
 
-This repository contains code for reproducing experiments from the paper:
+This repository contains code for reproducing experiments from the ICML 2026 paper:
 [Robust Bayes-Assisted Conformal Prediction](https://icml.cc/virtual/2026/poster/62631).
 
 
@@ -9,7 +9,7 @@ This repository contains code for reproducing experiments from the paper:
 Clone the repository:
 
 ```bash
-git clone <YOUR_REPO_URL>
+git clone https://github.com/kiaashour/RoBAS.git
 cd robas
 ```
 
